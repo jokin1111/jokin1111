@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heyyo 👋
 
 Estudiante 2ºDAM, aquí subiré proyectos de clase junto con programas que yo desarrollo por mi cuenta.
 :D
