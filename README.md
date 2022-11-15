@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Estudiante 2ºDAM, aquí subiré proyectos de clase junto con programas que yo desarrollo por mi cuenta.
+:D
+
 <!--
 **jokin1111/jokin1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
