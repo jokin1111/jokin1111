@@ -5,30 +5,29 @@
 - 📱 **Desarrollo de Aplicaciones Multiplataforma (DAM)**
 - 🌐 **Desarrollo de Aplicaciones Web (DAW)**
 
-Me apasiona construir proyectos útiles y bien diseñados, con una fuerte orientación a la calidad del código, buenas prácticas y experiencia de usuario. Estoy constantemente aprendiendo y mejorando mis habilidades, y ahora mismo estoy trabajando en un proyecto personal para enriquecer mi portfolio y mostrar de lo que soy capaz 💪.
-
+Me apasiona construir proyectos útiles y bien diseñados, con una fuerte orientación a la calidad del código, buenas prácticas y experiencia de usuario. Estoy constantemente aprendiendo y mejorando mis habilidades.
 ---
 
-## 🚀 ¿Qué estoy desarrollando?
+🚀 ¿Qué puedes encontrar aquí?
+🔹 Proyectos personales
+Pequeñas (y no tan pequeñas) apps que he desarrollado por mi cuenta para seguir aprendiendo, experimentar con tecnologías nuevas y, sobre todo, divertirme programando.
 
-Estoy creando un proyecto personal desde cero con el objetivo de poner en práctica todo lo aprendido en mis dos ciclos formativos y dar el salto al mundo profesional. ¡Pronto compartiré más detalles por aquí!
+🔹 Ejercicios de clase
+Código que he ido escribiendo como parte de mis estudios, donde aplico conceptos clave de la programación web y multiplataforma.
 
-**Tecnologías favoritas:**
-- Frontend: HTML5, CSS3, JavaScript, Vue.js, React
-- Backend: Node.js, PHP, Express, Laravel
-- Bases de datos: MySQL, MongoDB
-- Otras: Git, GitHub, APIs REST, Docker (aprendiendo)
+🔹 Pruebas y experimentos
+No todo lo que verás aquí está terminado o pulido. Algunas cosas son pruebas, ideas que me surgen y quiero probar. Me gusta ver este espacio como un laboratorio de código.
 
----
+🛠 Tecnologías con las que trabajo
+Frontend: HTML, CSS, JavaScript, React, Bootstrap
 
-## 🛠️ Proyectos en camino
+Backend: Node.js, PHP, Express
 
-| Proyecto | Descripción | Estado |
-|---------|-------------|--------|
-| 📚 Flashcards App | Aplicación web para repasar temario con tarjetas tipo Anki | 🟡 En desarrollo |
-| 🛒 Digital Market | Marketplace para productos digitales como iconos o plantillas | ⚪ Idea |
-| 🎯 Freelance CRM | CRM ligero para gestionar clientes y tareas | ⚪ Idea |
+Multiplataforma: Java, Kotlin, Android Studio, Flutter
 
+Bases de datos: MySQL, SQLite, Firebase
+
+Herramientas: Git, GitHub, Visual Studio Code, Postman
 ---
 
 ## 📫 ¿Quieres contactarme?
