@@ -1,19 +1,42 @@
-### Heyyo 👋
+# 👨‍💻 Joaquin Antequera
 
-Estudiante 2ºDAM, aquí subiré proyectos de clase junto con programas que yo desarrollo por mi cuenta.
-:D
+¡Hola! Soy Joaquín Antequera, desarrollador de software con formación en:
 
-<!--
-**jokin1111/jokin1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📱 **Desarrollo de Aplicaciones Multiplataforma (DAM)**
+- 🌐 **Desarrollo de Aplicaciones Web (DAW)**
 
-Here are some ideas to get you started:
+Me apasiona construir proyectos útiles y bien diseñados, con una fuerte orientación a la calidad del código, buenas prácticas y experiencia de usuario. Estoy constantemente aprendiendo y mejorando mis habilidades, y ahora mismo estoy trabajando en un proyecto personal para enriquecer mi portfolio y mostrar de lo que soy capaz 💪.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 ¿Qué estoy desarrollando?
+
+Estoy creando un proyecto personal desde cero con el objetivo de poner en práctica todo lo aprendido en mis dos ciclos formativos y dar el salto al mundo profesional. ¡Pronto compartiré más detalles por aquí!
+
+**Tecnologías favoritas:**
+- Frontend: HTML5, CSS3, JavaScript, Vue.js, React
+- Backend: Node.js, PHP, Express, Laravel
+- Bases de datos: MySQL, MongoDB
+- Otras: Git, GitHub, APIs REST, Docker (aprendiendo)
+
+---
+
+## 🛠️ Proyectos en camino
+
+| Proyecto | Descripción | Estado |
+|---------|-------------|--------|
+| 📚 Flashcards App | Aplicación web para repasar temario con tarjetas tipo Anki | 🟡 En desarrollo |
+| 🛒 Digital Market | Marketplace para productos digitales como iconos o plantillas | ⚪ Idea |
+| 🎯 Freelance CRM | CRM ligero para gestionar clientes y tareas | ⚪ Idea |
+
+---
+
+## 📫 ¿Quieres contactarme?
+
+- Email: [joaquin.antequera@email.com](mailto:joaquin.antequera@email.com) *(reemplázalo con tu correo real)*
+- LinkedIn: [linkedin.com/in/joaquinantequera](https://linkedin.com/in/joaquinantequera) *(ajusta si tienes perfil)*
+- Portfolio personal: *(cuando lo tengas, añádelo aquí)*
+
+---
+
+Gracias por pasarte por mi perfil. ¡Estoy abierto a colaboraciones, prácticas o propuestas interesantes! 😊
