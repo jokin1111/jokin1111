@@ -9,6 +9,7 @@ Me apasiona construir proyectos útiles y bien diseñados, con una fuerte orient
 ---
 
 🚀 ¿Qué puedes encontrar aquí?
+
 🔹 Proyectos personales
 Pequeñas (y no tan pequeñas) apps que he desarrollado por mi cuenta para seguir aprendiendo, experimentar con tecnologías nuevas y, sobre todo, divertirme programando.
 
@@ -32,8 +33,8 @@ Herramientas: Git, GitHub, Visual Studio Code, Postman
 
 ## 📫 ¿Quieres contactarme?
 
-- Email: [joaquin.antequera@email.com](mailto:joaquin.antequera@email.com) *(reemplázalo con tu correo real)*
-- LinkedIn: [linkedin.com/in/joaquinantequera](https://linkedin.com/in/joaquinantequera) *(ajusta si tienes perfil)*
+- Email: [joaquinantequera2002@email.com](mailto:joaquinantequera2002@email.com) *(reemplázalo con tu correo real)*
+- LinkedIn: [linkedin.com/in/joaquinantequera](https://www.linkedin.com/in/joaquinantequera/) *(ajusta si tienes perfil)*
 - Portfolio personal: *(cuando lo tengas, añádelo aquí)*
 
 ---
